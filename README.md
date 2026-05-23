@@ -50,7 +50,7 @@ This will:
 - Filter words that appear ≤ 30 times (rarer words)
 - Save pending words to the database (`data/epiphany.db`)
 - Optionally enrich with AI (prompts for confirmation with cost estimate)
-
+- Be Revamped
 #### 2. Practice your vocabulary
 
 ```bash
