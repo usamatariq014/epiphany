@@ -1,6 +1,6 @@
 # epiphany-ai
 
-**You finally understand a word you've seen a dozen times.**
+**You finally understand a word you've seen a dozen times.**. Needs to be updated. 
 
 A CLI tool that transforms EPUB ebooks into personalized Anki vocabulary decks using AI enrichment. Will be updating this. This will be completely revamped.
 
